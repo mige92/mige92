@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mige92.
+- 👀 I’m interested in stocks, energy econimics, & technology.
+- 🌱 I’m currently learning data science with Python with codecademy.
+- 💞️ I’m looking to collaborate on projects in the mentioned areas.
+- 📫 How to reach me: M&M‘s#9768 on Discord
